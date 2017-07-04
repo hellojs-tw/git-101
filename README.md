@@ -1,6 +1,4 @@
-# git-101
-
-### 2017 HelloJS Day 1：GIT 101
+# 2017 HelloJS Day 1：GIT 101
 
 ![](./img/git-101.png)
 
@@ -12,7 +10,8 @@
 
 在這個過程中，你將會使用到 `git add`、`git commit`、`git pull`、`git status`、`git log` 等常用指令；同時，你也會藉由分組練習取得小組成員的 `SLACK ID`。
 
-- [進入個人簡介目錄](./SUMMARY.md)
+- #### [進入個人簡介目錄](./SUMMARY.md)
+- #### [查看常用 GIT 指令表](./cheat-sheet.md)
 
 *Github Page：由 Github 所提供的網頁託管服務，可以將託管在 Github 上的特定檔案格式轉換為靜態網頁。
 
