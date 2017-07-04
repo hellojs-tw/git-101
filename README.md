@@ -1,76 +1,22 @@
 # git-101
 
+### 2017 HelloJS Day 1：GIT 101
 
-## 常用 Git 指令介紹
+![](./img/git-101.png)
 
-* `git init`
+## 內容簡介
+無論是學校或是工作場合，同一個專案需要多人、或是多個位於不同地點的團隊參與的情形非常普遍，所以如何正確地管理大家的共同產出是非常重要的環節 --- 而在現代軟體開發過程中，不使用版本控制系統（Version Control System）管理原始碼幾乎是不可想像的事情，甚至可以說：正確地使用版控系統是建立高效率團隊的基石。所以，在 HelloJS 訓練營中，我們將帶各位快速上手 GIT 與使用基於 GIT 技術的原始碼託管網站：Github。
 
-  建立新的本地端 Repository。
+## 讓我們開始吧
+在這段練習中，我們將建立一套包含*個人資料*、*學經歷*、*作品集*、*技能列表*、*小組成員*...等等頁面的個人簡介 Github Page*。
 
-* `git clone [Repository URL]`
+在這個過程中，你將會使用到 `git add`、`git commit`、`git pull`、`git status`、`git log` 等常用指令；同時，你也會藉由分組練習取得小組成員的 `SLACK ID`。
 
-  複製遠端的 Repository 檔案到本地端。
+- [進入個人簡介目錄](./SUMMARY.md)
 
-* `git status`
+*Github Page：由 Github 所提供的網頁託管服務，可以將託管在 Github 上的特定檔案格式轉換為靜態網頁。
 
-   檢查本地端檔案異動狀態。
-
-* `git add [檔案或資料夾]`
-
-   將指定的檔案（或資料夾）加入版本控制。用 `git add .` 可加入全部。
-
-* `git commit`
-
-   提交（commit）目前的異動。
-
-* `git commit -m "提交說明內容"`
-
-   提交（commit）目前的異動並透過 `-m` 參數設定摘要說明文字。
-
-* `git stash`
-
-   獲取目前工作目錄的 dirty state，並保存到一個未完成變更的 stack，以方便隨時回復至當初的 state。
-
-* `git log`
-
-   查看先前的 commit 記錄。
-
-* `git push`
-
-   將本地端 Repository 的 commit 發佈到遠端。
-
-* `git push origin [BRANCH_NAME]`
-
-   發佈至遠端指定的分支（Branch）
-
-* `git branch`
-
-   查看分支。
-
-* `git branch [BRANCH_NAME]`
-
-   建立分支。
-
-* `git checkout [BRANCH_NAME]`
-
-   取出指定的分支。
-
-* `git checkout -b [BRANCH_NAME]`
-
-   建立並跳到該分支。
-
-* `git branch -D [BRANCH_NAME]`
-
-   強制刪除指定分支（須先切換至其他分支再做刪除）。
-
-* `git reset --hard [HASH]`
-
-   強制恢復到指定的 commit（透過 Hash 值）。
-
-* `git checkout [HASH]`
-
-   切換到指定的 commit（與 `git checkout [BRANCH_NAME]` 相同)。
-
-* `git branch -m <OLD_BRANCH_NAME> <NEW_BRANCH_NAME>`
-
-   修改分支名稱。
+## 與我們聯絡
+- 官方網站：[HelloJS](https://hellojs.school)
+- 粉絲專頁：[Trunk-Studio](https://www.facebook.com/trunk.studio.tw/)
+- 連絡信箱：[tutor@hellojs.school](mailto:tutor@hellojs.school)
