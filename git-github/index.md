@@ -10,7 +10,7 @@
 
 ### 簡介
 - Since 2005
-- 由 Linus Torvalds（Linux之父）開發
+- 由 Linus Torvalds（Linux 之父）為了管理眾多 Linux Kernel 版本而開發
 - 免費/開源
 - GUI 選擇眾多
   - SourceTree for Mac/Windows（建議使用）
@@ -63,7 +63,7 @@
 
 ![](../img/git-github-1.png)
 
-稍後會出現如下畫面，選擇第一個項目以使用免費帳號；下方的 checkbox 提示是否需要建立 Github Org，不要勾選。
+稍後會出現如下畫面，選擇第一個項目以使用免費帳號；下方的 checkbox 提示是否需要建立 Github 組織，不要勾選。
 
 ![](../img/git-github-2.png)
 
@@ -74,6 +74,14 @@
 看到如下畫面時，即表示帳號註冊完成。
 
 ![](../img/git-github-4.png)
+
+## 小結
+- 了解為什麼要使用版本控制系統
+- 了解 git 是分散式的版本控制系統
+- 了解 git 不等同於 Github
+- 成功註冊一組 Github 帳號
+
+***
 
 ## 下一頁
 - [回目錄](../SUMMARY.md)

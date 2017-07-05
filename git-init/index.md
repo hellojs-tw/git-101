@@ -5,10 +5,11 @@
 
 ***
 
-## 0. 前置準備 - 安裝 git
+## 前置準備 - 安裝 git
 
 ### Windows
 - git for windows：[https://git-for-windows.github.io/](https://git-for-windows.github.io/)
+- [安裝說明](../git-init-windows/index.md)
 
 ### Mac
 - git osx installer：[http://sourceforge.net/projects/git-osx-installer/](http://sourceforge.net/projects/git-osx-installer/)
@@ -26,7 +27,7 @@ yum install git-core
 apt-get install git
 ```
 
-## 1. git 設定初始化
+## git 設定初始化
 
 以下指令會`全域地`設定你在 git 中顯示的使用者名稱以及 Email，同時也會讓 git 幫輸出的訊息上色。請依序複製並把以下三行指令貼到終端機中。
 
@@ -51,13 +52,14 @@ git config --global color.ui auto
 
 *** 
 
-## 2. git init
+## 使用 git init
 
 首先，請先在你喜歡的地方（路徑中不能含有中文名稱）建立一個空的資料夾，命名為 `git-test`。
 
 ![](../img/git-init-2.png)
 
-- Mac/Ubuntu 使用者打開終端機後輸入以下指令：
+#### Mac/Ubuntu 使用者打開終端機後輸入以下指令：
+
 // 切換至家目錄
 ```
 cd ~
@@ -78,8 +80,8 @@ cd git-test
 git init
 ```
 
+#### Windows 使用者打開終端機後輸入以下指令：
 
-- Windows 使用者打開終端機後輸入以下指令：
 // 切換至根目錄
 ```
 cd C:
@@ -104,6 +106,20 @@ git init
 
 ![](../img/git-init-2.png)
 
+## 查看 git repository 
+
+Mac/Ubuntu 使用者輸入以下指令，可以查看 `git-test` 資料夾中 git repository 的組成。
+```
+ls -a
+```
+![](../img/git-init-4.png)
+
+## 小結
+- 學會使用指令切換資料夾
+- 學會使用 `git init` 指令建立本機端的 git 儲存庫
+- 了解 git 儲存庫具體來是一個存有所有版本狀態、以及相關 metadata 的資料夾
+
+***
 
 ## 下一頁
 - [回目錄](../SUMMARY.md)

@@ -6,6 +6,7 @@
 - [儲存庫（git repository）](./git-repository/index.md)
 - git 基礎
   - [git init](./git-init/index.md)
+  - [git status](./git-status/index.md)
   - [git clone](./git-clone/index.md)
   - [git checkout](./git-checkout/index.md)
   - [git add](./git-add/index.md)
