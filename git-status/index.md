@@ -9,7 +9,19 @@
 
 ![](../img/git-init-2.png)
 
-## 1. 新增檔案到 repository
+## 使用 git-status 檢視檔案狀態
+
+回到終端機，__確保目前已經進入 `git-test` 資料夾後__，輸入以下指令：
+
+```
+git status
+```
+
+完成後會出現如下訊息，表示目前沒有任何東西可以進行 commit。
+
+![](../img/git-status-5.png)
+
+## 新增檔案到 repository
 
 請使用 `VS Code` 開啟上一步驟所建立的 `git-test` 資料夾，並且新增一個檔案 `first-file.md`，然後輸入文字 `#my-first-file-in-repository`。
 
@@ -21,7 +33,7 @@
 
 ![](../img/git-status-2.png)
 
-## 2. 使用 git-status 檢視檔案狀態
+## 再次使用 git-status 檢視檔案狀態
 
 回到終端機，__確保目前已經進入 `git-test` 資料夾後__，輸入以下指令：
 
@@ -33,10 +45,9 @@ git status
 
 ![](../img/git-status-3.png)
 
-
-
-
-
+## 小結
+- 學會如何使用 VS CODE 新增檔案
+- 學會使用 `git status` 指令檢查 git repository 狀態
 
 ***
 

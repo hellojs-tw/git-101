@@ -3,7 +3,7 @@
 
 ## 目錄
 - [git 與 Github](./git-github/index.md)
-- [儲存庫（git repository）](./git-repository/index.md)
+- [git 工作流程）](./git-workflow/index.md)
 - git 基礎
   - [git init](./git-init/index.md)
   - [git status](./git-status/index.md)
