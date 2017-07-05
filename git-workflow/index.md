@@ -7,6 +7,8 @@
 
 ### git 工作流程
 
+![](../img/git-status-6.png)
+
 ![](../img/basic-remote-workflow.png)
 
 ```

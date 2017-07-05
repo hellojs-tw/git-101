@@ -3,31 +3,11 @@
 
 ## 目錄
 - [git 與 Github](./git-github/index.md)
-- [git 工作流程）](./git-workflow/index.md)
-- git 基礎
-  - [git init](./git-init/index.md)
-  - [git status](./git-status/index.md)
-  - [git clone/remote](./git-clone-remote/index.md)
-  - [git add/commit](./git-add-commit/index.md)
-  - [git push](./git-push/index.md)
-  - [git log/diff](./git-log-diff/index.md)
-- 分支
-  - [git flow vs Github flow](./git-github-flow.md)
-  - [建立分支（git branch/git checkout）](./create-branch/index.md)
-  - [分支合併（git merge）](./merge-branch/index.md)
-  - [pull-request](./pr/index.md)
-  - [衝突編修](./conflict/index.md)
-  - [git fetch/git pull](./git-pull/index.md)
-- 進階技巧
-  - [git config 技巧](./git-conifg/index.md)
-  - [git stash](./git-stash/index.md)
-- Source Tree
-  - [Source Tree - clone](./sourcetree-clone/index.md)
-  - [Source Tree - File status](./sourcetree-files/index.md)
-  - [Source Tree - push](./sourcetree-push/index.md)
-  - [Source Tree - History](./sourcetree-history/index.md)
-  - [Source Tree - Remote](./sourcetree-history/index.md)
-  - [Source Tree - stash](./sourcetree-stash/index.md)
+- [git 工作流程](./git-workflow/index.md)
+- [git 操作本機 repository](./git-local/index.md)
+- [git 操作遠端 repository](./git-remote/index.md)
+- [Source Tree - 安裝](./sourcetree-install/index.md)
+- [Source Tree - 操作](./sourcetree-go/index.md)
 - 附錄
   - [git 指令對照表](./cheat-sheet.md)
   - [基本資料範本](./sample/index.md)
