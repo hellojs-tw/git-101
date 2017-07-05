@@ -8,11 +8,12 @@
 ## 讓我們開始吧
 在這段練習中，我們將建立一套包含*個人資料*、*學經歷*、*作品集*、*技能列表*、*小組成員*...等等頁面的個人簡介 Github Page*。
 
-在這個過程中，你將會使用到 `git add`、`git commit`、`git pull`、`git status`、`git log` 等常用指令；同時，你也會藉由分組練習取得小組成員的 `SLACK ID`。
+*Github Page：由 Github 所提供的網頁託管服務，可以將託管在它之上的特定檔案格式轉換為靜態網頁。
+
+在這個過程中，你將會使用到 `git add`、`git commit`、`git pull`、`git status`、`git log` 等常用指令；同時，你也會需要進行分組練習以取得小組成員的 SLACK ID。
+
 
 - #### [進入練習](./SUMMARY.md)
-
-*Github Page：由 Github 所提供的網頁託管服務，可以將託管在 Github 上的特定檔案格式轉換為靜態網頁。
 
 ## 相關資料
 - #### [查看常用 GIT 指令表](./cheat-sheet.md)
@@ -25,4 +26,4 @@
 ## 主辦單位
 - [Trunk-Studio](https://trunk.studio)
 - [BLOG](https://trunk.studio/blog)
-- [Facebook FanPage](https://www.facebook.com/trunk.studio.tw/)
+- [Facebook Page](https://www.facebook.com/trunk.studio.tw/)
