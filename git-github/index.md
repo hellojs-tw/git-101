@@ -1,7 +1,7 @@
 # git 與 Github
 
 ## 目錄
-- [回目錄](./SUMMARY.md)
+- [回目錄](../)
 
 ***
 
@@ -16,16 +16,36 @@
   - SourceTree for Mac/Windows（建議使用）
 - git 官方網站：[https://git-scm.com/](https://git-scm.com/)
 
+### 為什麼要使用版控
+
+![](../img/git-github-5.png)
+
+- 對一個資料夾下的所有檔案做備份管理
+- 將檔案的Snapshot(快照)保存到歷史紀錄
+- 為每次檔案更動留下說明
+- 將檔案復原到某個歷史紀錄
+- 顯示不同記錄版本的檔案差異
+- 與他人協同合作
+- ~~找戰犯~~
+
 ### 版本控制系統差異
 
 版本控制系統（Version Control System）簡稱VCS；具體有兩種實現模式：集中式與分散式。
 
-兩者最大的差異在於是否在本地端（local 端）具有儲存庫。
+兩者最大的差異在於：是否在本地端（local 端）具有儲存庫。
 
 ![](../img/centralized-vs-distributed.jpg)
 
 ```
 取自 https://www.git-tower.com/blog/switching-from-subversion-to-git/
+```
+
+### 工作流程
+
+![](../img/basic-remote-workflow.png)
+
+```
+取自 https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/introduction
 ```
 
 ***
@@ -64,5 +84,5 @@
 ![](../img/git-github-4.png)
 
 ## 下一頁
-- [回目錄](./SUMMARY.md)
+- [回目錄](../)
 - [儲存庫（git repository）](../git-repository/index.md)

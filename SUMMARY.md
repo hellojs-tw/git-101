@@ -34,6 +34,8 @@
   - [git 指令對照表](./cheat-sheet.md)
   - [基本資料範本](./sample/index.md)
 
+***
+
 ## 課程目的
 - 能夠使用 git 而不手忙腳亂
 - 能夠在本機端使用 CLI 介面操作 git

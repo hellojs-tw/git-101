@@ -1,5 +1,6 @@
 # HelloJS - git 101
 
+![](./img/hellojs.png)
 ![](./img/git-101.png)
 
 ## 內容簡介
