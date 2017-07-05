@@ -1,9 +1,9 @@
 # git 本機端操作
 
+## 目錄
+- [回目錄](../SUMMARY.md)
 
 ## 常用 linux 指令清單
-
-***
 
 ```
 // 清除螢幕
@@ -333,3 +333,9 @@ git log
 
 cat myfile
 ```
+
+***
+
+## 下一頁
+- [回目錄](../SUMMARY.md)
+- [git 多人協作](../git-remote/index.md)

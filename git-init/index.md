@@ -144,4 +144,4 @@ ls -a
 
 ## 下一頁
 - [回目錄](../SUMMARY.md)
-- [git status](../git-status/index.md)
+- [git 本機端操作](../git-local/index.md)

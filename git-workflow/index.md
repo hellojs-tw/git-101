@@ -30,4 +30,4 @@
 
 ## 下一頁
 - [回目錄](../SUMMARY.md)
-- [git init](../git-init/index.md)
+- [git 牛刀小試](../git-init/index.md)
