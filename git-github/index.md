@@ -51,6 +51,18 @@
 
 ![](../img/git-github-1.png)
 
-稍後會出現如下畫面，選擇第一個項目以使用免費帳號；同時，不要勾選下方的 checkbox。
+稍後會出現如下畫面，選擇第一個項目以使用免費帳號；下方的 checkbox 提示是否需要建立 Github Org，不要勾選。
 
 ![](../img/git-github-2.png)
+
+最後會出現問卷，直接點選箭頭處可以跳過。
+
+![](../img/git-github-3.png)
+
+看到如下畫面時，即表示帳號註冊完成。
+
+![](../img/git-github-4.png)
+
+## 下一頁
+- [回目錄](./SUMMARY.md)
+- [儲存庫（git repository）](../git-repository/index.md)

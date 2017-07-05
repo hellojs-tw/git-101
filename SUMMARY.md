@@ -3,7 +3,6 @@
 
 ## 目錄
 - [git 與 Github](./git-github/index.md)
-- [git flow vs Github flow](./git-hub-flow.md)
 - [儲存庫（git repository）](./git-repository/index.md)
 - git 基礎
   - [git init](./git-init/index.md)
@@ -13,6 +12,7 @@
   - [git commit](./git-commit/index.md)
   - [git push](./git-push/index.md)
 - 分支
+  - [git flow vs Github flow](./git-hub-flow.md)
   - [建立分支（git branch/git checkout）](./create-branch/index.md)
   - [分支合併（git merge）](./merge-branch/index.md)
   - [pull-request](./pr/index.md)
