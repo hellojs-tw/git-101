@@ -1,7 +1,7 @@
 # git 與 Github
 
 ## 目錄
-- [回目錄](../)
+- [回目錄](../SUMMARY.md)
 
 ***
 
@@ -32,20 +32,12 @@
 
 版本控制系統（Version Control System）簡稱VCS；具體有兩種實現模式：集中式與分散式。
 
-兩者最大的差異在於：是否在本地端（local 端）具有儲存庫。
+兩者最大的差異在於：__是否在本地端（local 端）具有儲存庫__。
 
 ![](../img/centralized-vs-distributed.jpg)
 
 ```
 取自 https://www.git-tower.com/blog/switching-from-subversion-to-git/
-```
-
-### 工作流程
-
-![](../img/basic-remote-workflow.png)
-
-```
-取自 https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/introduction
 ```
 
 ***
@@ -84,5 +76,5 @@
 ![](../img/git-github-4.png)
 
 ## 下一頁
-- [回目錄](../)
+- [回目錄](../SUMMARY.md)
 - [儲存庫（git repository）](../git-repository/index.md)
