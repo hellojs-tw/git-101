@@ -5,15 +5,26 @@
 
 ***
 
-### git 工作流程
+## git 檔案狀態
 
 ![](../img/git-status-6.png)
 
-![](../img/basic-remote-workflow.png)
+## git 工作流程
 
+![](../img/basic-remote-workflow.png)
 ```
 取自 https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/introduction
 ```
+
+## git flow
+
+![](../img/git-github-flow-1.png)
+
+## Github flow
+
+![](../img/git-github-flow-2.png)
+
+
 
 ***
 

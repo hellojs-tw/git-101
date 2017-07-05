@@ -4,8 +4,9 @@
 ## 目錄
 - [git 與 Github](./git-github/index.md)
 - [git 工作流程](./git-workflow/index.md)
-- [git 操作本機 repository](./git-local/index.md)
-- [git 操作遠端 repository](./git-remote/index.md)
+- [git init](./git-init/index.md)
+- [git 本機端操作](./git-local/index.md)
+- [git 多人協作](./git-remote/index.md)
 - [Source Tree - 安裝](./sourcetree-install/index.md)
 - [Source Tree - 操作](./sourcetree-go/index.md)
 - 附錄
