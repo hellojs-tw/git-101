@@ -15,7 +15,6 @@
 在這個過程中，你將會使用到 `git add`、`git commit`、`git pull`、`git status`、`git log` 等常用指令；同時，你也會需要進行分組練習以取得小組成員的姓名與 Slack ID 等等資訊來完成資料填寫。
 
 - [進入教材](./SUMMARY.md)
-- [練習範本](./sample/index.md)
 
 ## 參考資料
 - #### [常用 git 指令表](./cheat-sheet.md)

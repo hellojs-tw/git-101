@@ -23,6 +23,13 @@
 - 進階技巧
   - [git config 技巧](./git-conifg/index.md)
   - [git stash](./git-stash/index.md)
+- Source Tree
+  - [Source Tree - clone](./sourcetree-clone/index.md)
+  - [Source Tree - File status](./sourcetree-files/index.md)
+  - [Source Tree - push](./sourcetree-push/index.md)
+  - [Source Tree - History](./sourcetree-history/index.md)
+  - [Source Tree - Remote](./sourcetree-history/index.md)
+  - [Source Tree - stash](./sourcetree-stash/index.md)
 - 附錄
   - [git 指令對照表](./cheat-sheet.md)
   - [基本資料範本](./sample/index.md)
