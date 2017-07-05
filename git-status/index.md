@@ -1,4 +1,4 @@
-# git-init
+# git-status
 
 ## 目錄
 - [回目錄](../SUMMARY.md)
@@ -107,4 +107,4 @@ git init
 
 ## 下一頁
 - [回目錄](../SUMMARY.md)
-- [git status](../git-status/index.md)
+- [git clone](../git-clone/index.md)
