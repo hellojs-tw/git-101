@@ -1,20 +1,14 @@
-# git config 技巧
+# git checkout
 
 ## 目錄
 - [回目錄](../SUMMARY.md)
 
 ***
 
--
 
-``
-
-- 
-`git config --global core.editor`
-
-- 
-`git config --global merge.tool opendiff`
-
+## 小結
+- 學會使用 `git checkout` 指令切換 branch
+- 學會使用 `git branch` 查看當下所在 branch
 
 ***
 

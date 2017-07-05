@@ -8,9 +8,7 @@
   - [git init](./git-init/index.md)
   - [git status](./git-status/index.md)
   - [git clone](./git-clone/index.md)
-  - [git checkout](./git-checkout/index.md)
-  - [git add](./git-add/index.md)
-  - [git commit](./git-commit/index.md)
+  - [git add/commit](./git-add/commit/index.md)
   - [git push](./git-push/index.md)
 - 分支
   - [git flow vs Github flow](./git-hub-flow.md)

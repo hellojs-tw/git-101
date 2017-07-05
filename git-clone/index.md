@@ -61,19 +61,31 @@ cd git-101
 git clone https://github.com/hellojs-tw/git-101
 ```
 
-![](../img/git-clone-1.png)
+![](../img/git-clone-2.png)
 
-## 進階用法
+### 進階用法
 
 // 取得遠端 repository 的同時重新命名複製到本地端的目錄名稱
 ```
 git clone https://github.com/hellojs-tw/git-101 my-git-101
 ```
 
+## 使用 git remote 查看遠端路徑
 
+// 輸入以下指令查看遠端 repository 路徑
+```
+cd git-101
+git remote -v
+```
+
+![](../img/git-clone-3.png)
+
+## 小結
+- 學會使用 `git clone` 取得遠端的 repository
+- 學會使用 `git remote -v` 指令查看遠端 repository 路徑
 
 ***
 
 ## 下一頁
 - [回目錄](../SUMMARY.md)
-- [儲存庫（git repository）](../git-repository/index.md)
+- [git add/commit](../git-add/commit/index.md)

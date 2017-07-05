@@ -9,7 +9,7 @@
 
 ![](../img/git-init-2.png)
 
-## 使用 git-status 檢視檔案狀態
+## 使用 git status 檢視檔案狀態
 
 回到終端機，__確保目前已經進入 `git-test` 資料夾後__，輸入以下指令：
 
@@ -33,7 +33,7 @@ git status
 
 ![](../img/git-status-2.png)
 
-## 再次使用 git-status 檢視檔案狀態
+## 再次使用 git status 檢視檔案狀態
 
 回到終端機，__確保目前已經進入 `git-test` 資料夾後__，輸入以下指令：
 
@@ -45,9 +45,14 @@ git status
 
 ![](../img/git-status-3.png)
 
+## git 的檔案紀錄狀態
+
+![](../img/git-status-6.png)
+
 ## 小結
 - 學會如何使用 VS CODE 新增檔案
 - 學會使用 `git status` 指令檢查 git repository 狀態
+- 了解 git 的四種檔案記錄狀態（untracked/unmodified/modified/staged）
 
 ***
 
