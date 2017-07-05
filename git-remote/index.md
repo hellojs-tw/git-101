@@ -1,5 +1,4 @@
-# git 本機端操作
-
+# git 多人協作
 
 ## 常用 linux 指令清單
 
@@ -120,6 +119,13 @@ git merge {branch1} {branch2}
 
 ***
 
+## git 多人協作常用指令
+```
+
+```
+
+***
+
 ## 常用 vim 指令
 ```
 // 進入編輯模式
@@ -137,199 +143,8 @@ git merge {branch1} {branch2}
 
 ***
 
-
-## git local 端操作流程
+## git 多人協作操作流程
 
 ```
-// 建立資料夾與 init git repository
 
-mkdir git-local
-
-ls
-
-cd git-local
-
-git config --global user.name "kent"
-
-git config --global user.email "kent@trunk-studio.com"
-
-git init
-
-
-// 建立檔案與 commit 工作目錄變更 
-
-touch myfile
-
-vim myfile
-
-git status
-
-git add myfile
-
-git commit 'this is my first commit for myfile'
-
-git log
-
-git show
-
-vim myfile
-
-git add .
-
-git commit -m 'my second commit'
-
-git log
-
-
-// 查看歷史變更紀錄與比對紀錄
-
-git diff {comment1} {comment2}
-
-git show
-
-git log -p
-
-git log -p --word-diff
-
-git show --word-diff
-
-// 修改 commit 訊息
-
-git commit --amend
-
-git log
-
-
-// 還原變更
-
-vim myfile
-
-git status
-
-git checkout myfile
-
-git status
-
-
-// 還原工作目錄至某狀態，但保留變更
-
-vim myfile
-
-git commit -m 'my third commit' --all
-
-git log
-
-git reset {1st commit}
-
-git log
-
-git status
-
-cat myfile
-
-// 還原工作目錄至某狀態，放棄變更
-
-vim myfile
-
-git commit -m 'my new second commit' --all
-
-git log
-
-git reset {1st commit} --hard
-
-git log
-
-git status
-
-cat myfile
-
-
-// 建立新分支
-
-vim myfile
-
-git commit -m 'my super new second commit' --all
-
-git log
-
-git branch
-
-git checkout -b develop
-
-git log
-
-git branch
-
-
-// 切換分支
-
-vim myfile
-
-git commit -m 'my first commit for develop branch' --all
-
-git log
-
-git checkout master
-
-git log
-
-git branch
-
-
-// 使用 checkout 放棄變更
-
-vim myfile
-
-git status
-
-git checkout myfile
-
-git status
-
-
-// 使用 stash 在不同 branch 間切換工作目錄狀態
-
-vim myfile
-
-git status
-
-git stash
-
-git status
-
-git stash list
-
-git stash show stash@{0}
-
-git checkout develop
-
-git stash pop
-
-
-// 解決衝突
-
-git status
-
-vim myfile
-
-git status
-
-git commit -m 'fix conflict' --all
-
-git log
-
-cat myfile
-
-
-// 合併分支
-
-git checkout master
-
-git branch
-
-git merge master develop
-
-git log
-
-cat myfile
 ```
