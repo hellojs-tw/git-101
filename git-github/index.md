@@ -3,6 +3,8 @@
 ## 目錄
 - [回目錄](./SUMMARY.md)
 
+***
+
 ## git 
 ![](../img/git.png)
 
@@ -26,7 +28,11 @@
 取自 https://www.git-tower.com/blog/switching-from-subversion-to-git/
 ```
 
+***
+
 ## Github
+
+### 簡介
 ![](../img/github.png)
 - Github：[https://github.com/](https://github.com/)
 - __`不等同 git`__
@@ -37,3 +43,13 @@
   - Gitlab：[https://about.gitlab.com/](https://about.gitlab.com/)
   - Bitbucket：[https://bitbucket.org/](https://bitbucket.org/)
   - Gogs：[https://gogs.io/](https://gogs.io/)
+
+### Github 帳號申請
+
+連到 [https://github.com/join](https://github.com/join) 按照畫面上輸入想要申請的帳號與密碼，然後點擊 `create an account`。
+
+![](../img/git-github-1.png)
+
+稍後會出現如下畫面，選擇第一個項目以使用免費帳號；同時，不要勾選下方的 checkbox。
+
+![](../img/git-github-2.png)
