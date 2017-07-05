@@ -12,18 +12,16 @@
 
 在這個過程中，你將會使用到 `git add`、`git commit`、`git pull`、`git status`、`git log` 等常用指令；同時，你也會需要進行分組練習以取得小組成員的 SLACK ID。
 
-
 - #### [進入練習](./SUMMARY.md)
 
-## 相關資料
+## 參考資料
 - #### [查看常用 GIT 指令表](./cheat-sheet.md)
 
 ## 與我們聯絡
 - 官方網站：[HelloJS](https://hellojs.school)
 - 連絡信箱：[tutor@hellojs.school](mailto:tutor@hellojs.school)
-- Slack 入口：
 
 ## 主辦單位
-- [Trunk-Studio](https://trunk.studio)
-- [BLOG](https://trunk.studio/blog)
+- [Trunk-Studio](https://trunk-studio.com)
+- [BLOG](https://trunk-studio.com/blog)
 - [Facebook Page](https://www.facebook.com/trunk.studio.tw/)
