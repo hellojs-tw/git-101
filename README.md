@@ -1,4 +1,4 @@
-# 2017 HelloJS Day 1：GIT 101
+# HelloJS - GIT 101
 
 ![](./img/git-101.png)
 
@@ -11,11 +11,15 @@
 在這個過程中，你將會使用到 `git add`、`git commit`、`git pull`、`git status`、`git log` 等常用指令；同時，你也會藉由分組練習取得小組成員的 `SLACK ID`。
 
 - #### [進入個人簡介目錄](./SUMMARY.md)
-- #### [查看常用 GIT 指令表](./cheat-sheet.md)
 
 *Github Page：由 Github 所提供的網頁託管服務，可以將託管在 Github 上的特定檔案格式轉換為靜態網頁。
 
+## 相關資料
+- #### [查看常用 GIT 指令表](./cheat-sheet.md)
+
 ## 與我們聯絡
 - 官方網站：[HelloJS](https://hellojs.school)
+- 主辦單位：[Trunk-Studio](https://trunk.studio)
+- 部 落 格：[Trunk-Studio BLOG](https://trunk.studio/blog)
 - 粉絲專頁：[Trunk-Studio](https://www.facebook.com/trunk.studio.tw/)
 - 連絡信箱：[tutor@hellojs.school](mailto:tutor@hellojs.school)
