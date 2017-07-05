@@ -34,8 +34,9 @@
 
 ### 簡介
 ![](../img/github.png)
-- Github：[https://github.com/](https://github.com/)
+
 - __`不等同 git`__
+- Github：[https://github.com/](https://github.com/)
 - 是一個提供 git 技術的雲端原始碼託管平台
 - ~~全球最大男性交友平台~~
 - 有自己的 git GUI 工具：[https://desktop.github.com/](https://desktop.github.com/)
