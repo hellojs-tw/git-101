@@ -16,11 +16,15 @@
 ### Linux
 - Fedora
 // 於終端機貼上以下指令
-`yum install git-core`
+```
+yum install git-core
+````
 
 - Debian based(Ubuntu)
 // 於終端機貼上以下指令
-`apt-get install git`
+```
+apt-get install git
+```
 
 ## git 設定初始化
 
@@ -29,13 +33,19 @@
 ![](../img/git-init-1.png)
 
 // 設定使用 git commit/git log 時顯示的使用者名稱
-`git config --global user.name "你的名字"`
+```
+git config --global user.name "你的名字"
+```
 
 // 設定使用 git commit/git log 時顯示的信箱
-`git config --global user.email "你的信箱"`
+```
+git config --global user.email "你的信箱"
+```
 
 // 設定使用 git status 時把輸出結果彩色劃
-`git config --global color.ui auto`
+```
+git config --global color.ui auto
+```
 
 要開始使用 git 基本上只需要這些設定，[git config 技巧](../git-conifg/index.md) 章節中會在介紹其他常用的設定選項。
 
