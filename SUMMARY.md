@@ -7,17 +7,16 @@
 - git 基礎
   - [git init](./git-init/index.md)
   - [git status](./git-status/index.md)
-  - [git clone](./git-clone/index.md)
-  - [git add/commit](./git-add/commit/index.md)
+  - [git clone/remote](./git-clone-remote/index.md)
+  - [git add/commit](./git-add-commit/index.md)
   - [git push](./git-push/index.md)
+  - [git log/diff](./git-log-diff/index.md)
 - 分支
-  - [git flow vs Github flow](./git-hub-flow.md)
+  - [git flow vs Github flow](./git-github-flow.md)
   - [建立分支（git branch/git checkout）](./create-branch/index.md)
   - [分支合併（git merge）](./merge-branch/index.md)
   - [pull-request](./pr/index.md)
   - [衝突編修](./conflict/index.md)
-- 遠端儲存庫
-  - [git remote](./git-remote/index.md)
   - [git fetch/git pull](./git-pull/index.md)
 - 進階技巧
   - [git config 技巧](./git-conifg/index.md)

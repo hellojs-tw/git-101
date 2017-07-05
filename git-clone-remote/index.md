@@ -1,4 +1,4 @@
-# git clone
+# git clone/remote
 
 ## 目錄
 - [回目錄](../SUMMARY.md)
