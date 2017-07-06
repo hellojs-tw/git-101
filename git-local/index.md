@@ -90,6 +90,9 @@ git checkout {remoteName} {branchName}
 // 建立新分支
 git checkout -b {branchName}
 
+// 查看當下 branch
+git branch 
+
 // 還原工作目錄至上一次 commit 之狀態
 git reset 
 
@@ -139,6 +142,10 @@ git merge {branch1} {branch2}
 
 
 ## git local 端操作流程
+
+課程內容使用 HelloJS 專用 VM 進行操作，以下按照順序列出課程依序會使用到的指令。
+
+![](../img/hellojs-vm.png)
 
 ```
 // 建立資料夾與 init git repository

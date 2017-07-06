@@ -8,7 +8,7 @@
 - [git 本機端操作](./git-local/index.md)
 - [git 多人協作](./git-remote/index.md)
 - [Source Tree - 安裝](./sourcetree-install/index.md)
-- [Source Tree - 操作](./sourcetree-go/index.md)
+- [Source Tree - 操作](./sourcetree-git/index.md)
 - 附錄
   - [git 指令對照表](./cheat-sheet.md)
   - [基本資料範本](./sample/index.md)

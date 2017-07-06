@@ -43,14 +43,7 @@ git config --global user.name "你的名字"
 git config --global user.email "你的信箱"
 ```
 
-// 設定使用 git status 時把輸出結果彩色劃
-```
-git config --global color.ui auto
-```
-
 ![](../img/git-init-1.png)
-
-要開始使用 git 基本上只需要這些設定，[git config 技巧](../git-conifg/index.md) 章節中會在介紹其他常用的設定選項。
 
 *** 
 
