@@ -173,7 +173,7 @@ git status
 
 git add myfile
 
-git commit 'this is my first commit for myfile'
+git commit -m 'this is my first commit for myfile'
 
 git log
 

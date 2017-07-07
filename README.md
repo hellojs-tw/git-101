@@ -25,6 +25,6 @@
 - 連絡信箱：[tutor@hellojs.school](mailto:tutor@hellojs.school)
 
 ### 主辦單位
-- [Trunk-Studio](https://trunk-studio.com)
+- [Trunk-Studio](https://www.trunk-studio.com)
 - [BLOG](https://trunk-studio.com/blog)
 - [Facebook Page](https://www.facebook.com/trunk.studio.tw/)
